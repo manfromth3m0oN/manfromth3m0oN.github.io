@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 13:11:33 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>http://example.org/posts/helloworld/</link>
+      <pubDate>Wed, 26 May 2021 13:11:33 +0100</pubDate>
+      
+      <guid>http://example.org/posts/helloworld/</guid>
+      <description>Hi there. Welcome to my new blog. I’m Max and I do programming and music and stuff, so thats the kinda content you’ll find on this blog
+I have strong interests in both low/systems level and web stack programming so you’ll see a mix of that in languages such as python, go, and rust.
+If you want to take a look at some of my previous projects my github is a great place for that.</description>
+    </item>
+    
+  </channel>
+</rss>
